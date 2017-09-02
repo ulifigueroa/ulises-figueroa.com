@@ -1,0 +1,13 @@
+{
+  "name": "ulises-figueroa.com",
+  "version": "1.0.0",
+  "description": "Personal Website",
+  "main": "server.js",
+  "repository": "https://github.com/ulifigueroa/ulises-figueroa.com.git",
+  "author": "Ulises Figueroa <ulifigueroa@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.15.4",
+    "webpack": "^3.5.5"
+  }
+}

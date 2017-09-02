@@ -1,2 +1,5 @@
-# ulises-figueroa.com
-Personal Website
+# Personal Website
+
+Build using:
+- Express
+- Webpack
